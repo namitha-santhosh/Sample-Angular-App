@@ -1,0 +1,29 @@
+{
+  "signupUsersList": [
+    {
+      "id": 1,
+      "email": "bolu@gmail.com",
+      "password": "1234"
+    },
+    {
+      "email": "namithasanthosh@gmail.com",
+      "password": "hello",
+      "id": 2
+    },
+    {
+      "email": "arjun6@gmail.com",
+      "password": "0612",
+      "id": 3
+    },
+    {
+      "email": "arjun6@gmail.com",
+      "password": "0612",
+      "id": 4
+    },
+    {
+      "email": "rohith123",
+      "password": "6754",
+      "id": 5
+    }
+  ]
+}
